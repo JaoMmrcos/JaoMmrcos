@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **JaoMmrcos/JaoMmrcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![] (![image](https://github.com/user-attachments/assets/e76db967-1c39-4142-82fe-a6b66fdfb245)
+
+
+
+
